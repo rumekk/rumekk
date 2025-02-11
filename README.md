@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bernard and I'm Computer Science student with passion to coding.</p>
+<p align="left">My name is Bernard and I'm Computer Science student with passion to coding. Here you can find same of my projects.</p>
 
 ###
 
