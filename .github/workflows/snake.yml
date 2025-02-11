@@ -26,5 +26,3 @@ jobs:
           commit_message: "Updated Snake animation"
           branch: main
           file_pattern: "dist/snake.svg dist/snake_dark.svg"
-          token: ${{ secrets.GITHUB_TOKEN }}
-
