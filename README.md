@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rumekk/rumekk/main/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rumekk/rumekk/main/dist/snake_dark.svg" alt="Snake animation" />
 
 ###
 
