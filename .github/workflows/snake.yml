@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Uruchamia się codziennie o północy UTC
+  workflow_dispatch: # Pozwala uruchomić ręcznie
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: rumekk
+          outputs: |
+            dist/snake.svg
+            dist/snake_dark.svg?palette=github-dark
+      
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Updated Snake animation"
+          add: "dist/snake.svg dist/snake_dark.svg"
