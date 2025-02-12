@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code mainly with python but technologies such as SQLite, HTML and CSS are not unfamiliar for me.</h2>
+<h2 align="left">I code mainly with python but technologies such as SQLite, HTML and CSS are not unfamiliar to me.</h2>
 
 ###
 
