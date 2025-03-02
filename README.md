@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bernard and I'm Computer Science student with passion to coding and computer science. Here you can find some of my projects.</p>
+<p align="left">My name is Bernard and I'm Computer Science student with passion to coding and computer science. Here you can find some of my projects. I'm trying to stay open-minded and find my path in this tech world. Right now, I'm delving deeper into backend development and machine learning.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: JavaScript, Svelte<br>🎯 My goal is to keep pushing my limits and developing...</p>
+<p align="left">📚 I'm currently learning: JavaScript, Svelte, Security<br>🎯 My goal is to keep pushing my limits and developing...</p>
 
 ###
 
